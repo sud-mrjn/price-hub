@@ -1,9 +1,11 @@
 {
     "devDependencies": {
         "@symfony/webpack-encore": "github:symfony/webpack-encore",
+        "axios": "^0.18.0",
         "vue": "^2.5.16",
         "vue-loader": "^15.2.4",
-        "vue-template-compiler": "^2.5.16"
+        "vue-template-compiler": "^2.5.16",
+        "webpack-notifier": "^1.6.0"
     },
     "license": "UNLICENSED",
     "private": true,
